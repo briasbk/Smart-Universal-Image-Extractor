@@ -21,12 +21,6 @@ A **production-ready GUI application** to extract and download all images from a
 
 ---
 
-## Screenshots
-
-*(Optional: Add screenshots here of the GUI, progress bar, and logs.)*
-
----
-
 ## Requirements
 
 - **Python 3.12+**
