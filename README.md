@@ -38,8 +38,8 @@ playwright install chromium
 1. Clone this repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone [<repository-url>](https://github.com/briasbk/Smart-Universal-Image-Extractor.git)
+cd Smart-Universal-Image-Extractor
 ```
 
 2. Create a virtual environment (recommended):
@@ -118,7 +118,7 @@ Output will be in the `dist/` folder — a standalone `.app` on macOS or `.exe` 
 ## License
 
 MIT License  
-(c) 2026 [Your Name or Organisation]
+(c) 2026 [Solid Digital]
 
 ---
 
