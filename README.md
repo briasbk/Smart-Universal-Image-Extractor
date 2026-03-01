@@ -38,7 +38,7 @@ playwright install chromium
 1. Clone this repository:
 
 ```bash
-git clone [<repository-url>](https://github.com/briasbk/Smart-Universal-Image-Extractor.git)
+git clone https://github.com/briasbk/Smart-Universal-Image-Extractor.git
 cd Smart-Universal-Image-Extractor
 ```
 
